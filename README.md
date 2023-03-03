@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on learning REACT
 - 🌱 I’m currently learning MONGODB, Algorithms and Data Structures
 - 💬 Ask me about how to code HTML tables
-- 📫 How to reach me: Sue.Wirth9092@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I like to cook in an air fryer.
 -->
